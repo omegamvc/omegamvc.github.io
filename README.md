@@ -23,14 +23,37 @@ With each release of the Omega Framework, this repository is updated to reflect 
 
 As Omega is actively developed, keeping the API documentation up to date is a priority. You can find the full changelog of updates to the API documentation and the Omega Framework in the section below.
 
-## API Changelog
+## Changelog
 
 By following the changelog, you will always be able to track the changes and improvements made to both the framework and its API documentation.
 
-<details> <summary>Expand for reading</summary>
-[Version 1.0.0] - [2024-11-04]
+<details> <summary>Expand for reading the complete changelog</summary>
 
-* Initial Release
+### Version 1.0.0
+
+**2024-12-04**
+
+* Omega: Update .gitignore
+* Omega: Remove CHANGELOG.md
+* Omega: Update README.md
+* Framework: Remove CHANGELOG.md
+* Framework: Update README.md
+* Framework: Fix grammar issue in Application.php
+* Framework: Fix grammar issue in RuleInterface.php
+* Documentation: Regenerate API.
+
+*Changelog Update*
+
+The changelogs previously maintained in the omega and framework repositories have been removed. From now on, all updates, modifications, and release notes are consolidated and maintained in the central changelog available within the official Omega documentation.
+
+This change ensures consistency and provides a single, authoritative source for tracking the evolution of the framework and its ecosystem. 
+
+If you have any questions or concerns, feel free to open an issue or reach out via the official communication channels.
+
+**2024-12-04**
+
+* Omega: Initial Release
+* Framework: Initial Release
 
 </details>
 
