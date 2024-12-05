@@ -31,6 +31,11 @@ By following the changelog, you will always be able to track the changes and imp
 
 ### Version 1.0.0
 
+**2024-12-05**
+
+* Omega: Update composer schema in composer.json
+* Framework: Update composer schema in composer.json
+
 **2024-12-04**
 
 * Omega: Update .gitignore
