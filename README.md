@@ -27,7 +27,7 @@ As Omega is actively developed, keeping the API documentation up to date is a pr
 
 By following the changelog, you will always be able to track the changes and improvements made to both the framework and its API documentation.
 
-<details> <summary>Expand for reading the complete changelog</summary>
+<details> <summary>**Expand for reading the complete changelog**</summary>
 
 ### Version 1.0.0
 
