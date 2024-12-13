@@ -2,11 +2,6 @@
 
 /**
  * Part of Omega MVC - Application Package
- *
- * @link      https://omegamvc.github.io
- * @author    Adriano Giovannini <agisoftt@gmail.com>
- * @copyright Copyright (c) 2024 Adriano Giovannini. (https://omegamvc.github.io)
- * @license   https://www.gnu.org/licenses/gpl-3.0-standalone.html     GPL V3.0+
  */
 
 declare(strict_types=1);
@@ -18,10 +13,10 @@ namespace Omega\Application;
  *
  * @category   Omega
  * @package    Application
- * @link       https://omegamvc.github.io
+ * @link       https://omegamvc.github.io OmegaMVC
  * @author     Adriano Giovannini <agisoftt@gmail.com>
  * @copyright  Copyright (c) 2024 Adriano Giovannini. (https://omegamvc.github.io)
- * @license    https://www.gnu.org/licenses/gpl-3.0-standalone.html     GPL V3.0+
+ * @license    https://www.gnu.org/licenses/gpl-3.0-standalone.html GPL V3.0+
  * @version    1.0.0
  */
 interface ApplicationInterface
